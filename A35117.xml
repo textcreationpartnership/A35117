@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An apology for the Quakers wherein is shewed how they answer the chief principles of the law, and main ends of government : with several reasons why they deserve the liberty of their consciences in the worship of God : for all magistrates and rulers to consider of, lest they pervert justice and provoke the Lord to displeasure / by J. Crook.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35117</idno>
+            <idno type="STC">Wing C7196</idno>
+            <idno type="STC">ESTC R25362</idno>
+            <idno type="EEBO-CITATION">08940387</idno>
+            <idno type="OCLC">ocm 08940387</idno>
+            <idno type="VID">42022</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35117)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42022)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1281:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An apology for the Quakers wherein is shewed how they answer the chief principles of the law, and main ends of government : with several reasons why they deserve the liberty of their consciences in the worship of God : for all magistrates and rulers to consider of, lest they pervert justice and provoke the Lord to displeasure / by J. Crook.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42022:1"/>
+            <p>AN APOLOGY FOR THE QUAKERS: Wherein is ſhewed, How they Anſwer the Chief Principles of the LAVV, and Main Ends of GOVERNMENT. With SEVERAL REASONS Why they deſerve the LIBERTY of their CONSCIENCES in the WORSHIP of GOD. For all Magiſtrates and Rulers to conſider of, leſt they pervert Juſtice, and provoke the Lord to diſpleaſure. By a Lover of Mercy and Truth, <hi>J. Crook.</hi>
+            </p>
+            <q>
+               <l>Thoſe whom Luſt, Fear, and Wrath controul,</l>
+               <l>Scarce know their Body from their Soul.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:42022:2"/>
+            <head>An <hi>APOLOGY</hi> for the QUAKERS.</head>
+            <p>THis People hath been every where ſpoken againſt, as thoſe that turn the World up-ſide down, and are dif<g ref="char:EOLhyphen"/>ferent in life and manners from the people of the Na<g ref="char:EOLhyphen"/>tions: but time and experience hath made many to know them better, for they begin to be underſtood, and only to be hardly thought of in thoſe places, and by thoſe perſons that know them not; it being alwayes incident to man, <hi>to ſpeak evil of things he knows not,</hi> becauſe he cannot endure to have any to outſhine or go beyond his knowledge; and therefore what he wants in Worth and Virtue, he ſtrives to make up by Force and Wrath, though thereby he can never <hi>work the Righteouſneſs of God.</hi> But as <hi>Cain</hi> thought to get up by removing <hi>Abel</hi> out of the way, and to eſtabliſh his Form, by taking away his life that was in the Power; ſo have all done ever ſince that have gone in the way of <hi>Cain.</hi> And yet, though <hi>Abel</hi> was killed, <hi>Cain</hi> could not enter into God's ſavour, <hi>while ſin lay at his door:</hi> for, Form with<g ref="char:EOLhyphen"/>out Power will never be accepted with God, however it may be cryed up by men.</p>
+            <p>This Peoples Principles are now well known; and the more, becauſe they have been ſo much oppoſed and often tryed, even from the Miter-cap unto the Curats-coat, beſides the laſhes by the way from by-ſtanders and lookers-on, as well as from thoſe that eſteem themſelves unqueſtionably Orthodox in their Judg<g ref="char:EOLhyphen"/>ments and Practices. Yet have this People ſtood when many have fallen, and by their tryals both their Principles and Pra<g ref="char:EOLhyphen"/>ctices come to ſhine the more, and the better to be approved; as if to them <hi>to dye were gain, and to live were Chriſt.</hi>
+            </p>
+            <p>That this People deſerve to have the Liberty of their Conſci<g ref="char:EOLhyphen"/>ences, to worſhip God according to his perſwaſion in their hearts, may appear by what hereafter follows.</p>
+            <p>Firſt, Becauſe of their <hi>Principle,</hi> which is <hi>Light,</hi> and that leads them <hi>to do unto all men as they would be done unto.</hi> And this Principle and <hi>Grace,</hi> they affirm, <hi>appears unto all men,</hi> though few follow it; yet is it every man's duty to be ſubject unto its re<g ref="char:EOLhyphen"/>quirings:
+<pb facs="tcp:42022:2"/>and thoſe that are faithful unto it, it keeps them in all tryals, whereby they are upheld when others fall.</p>
+            <p n="2">2dly, Becauſe of their <hi>Practices,</hi> being <hi>ſuch as become the Go<g ref="char:EOLhyphen"/>ſpel;</hi> not <hi>vain-talkers</hi> like many others, but <hi>holy livers;</hi> not <hi>hearers only,</hi> but <hi>doers,</hi> their words being Laws unto them, pro<g ref="char:EOLhyphen"/>ceeding not from a vain cuſtomary form, but from a conſiderate and pondrous ſpirit, firſt weighed and then ſpoken forth: and ſuch words never become a burden to the ſpeakers of them, though hard to be digeſted by an unſavoury mind in the hearers. But their Practices are ſo well known, that Fairs and Markets proclaim them, as well as Shops and Trades, beſides the expe<g ref="char:EOLhyphen"/>riences of Landlords from their Tenants, as well as Relations both near and more remote, with their demeanour both in ſick<g ref="char:EOLhyphen"/>neſs and health, poverty and riches, liberty and reſtraint, without murmuring at the hand which ſtrikes. I need ſay no more to manifeſt their Practices, they being known from the hoary head unto the youthful dayes, and from the chiefeſt Ruler unto the meaneſt Subject, it being all one to them, with whom they have to do, either child or experienc'd age, <hi>Righteouſneſs being the girdle of their loins, and Truth and Uprightneſs the ſquare and line of all their actions.</hi>
+            </p>
+            <p n="3">3dly, They deſerve Liberty, becauſe of <hi>their faithful Teſtimony againſt the Wickedneſs, Injuſtice, Oppreſſions and Cruelties of the per<g ref="char:EOLhyphen"/>ſons, places and times in and among whom they have lived,</hi> even ever ſince they have been a People unto this day; though hitherto they have ſuffered deeply for the ſame, as the Righteous have alwayes done, who, <hi>by departing from iniquity,</hi> and bearing wit<g ref="char:EOLhyphen"/>neſs againſt it in whomſoever it appeared, <hi>made themſelves a prey.</hi>
+            </p>
+            <p n="4">4thly, If Liberty ſhould be denied them, experience teacheth that they will meet to worſhip God, (which argues that both their Faith and Conſtancy comes from him) unleſs hindred by Baniſhment, Death, or Impriſonment: and experience ſhew<g ref="char:EOLhyphen"/>eth, by what of this kind hath already been exerciſed towards them, how their number is encreaſed, and a ſpirit of pity and compaſſion is raiſed up in the hearts of people towards them, Beſides, their <hi>uſefulneſs in the Common-wealth,</hi> they being known to be both laborious themſelves, and encouragers of others
+<pb facs="tcp:42022:3"/>thereunto, may be another reaſon why they deſerve Liberty. For may it not well be ſuppoſed, that the denying of Liberty of Conſcience unto <hi>Quakers</hi> and others, is one cauſe why Trade is ſo decayed, and Diſcontents encreaſed? and can that place or Country be long-liv'd where Trade decayes, Trade being unto a Kingdom or Country, as meat is unto the ſtomach? And what danger <hi>England</hi> is in upon this account, it concerns the Rulers to look unto, before the diſeaſe be incurable.</p>
+            <p n="5">5thly, They deſerve Liberty, becauſe they both anſwer <hi>the Principles of the Law,</hi> and <hi>the Ends of Government.</hi>
+            </p>
+            <p>The main Principles of the Law are theſe three; <hi>Honeſte vi<g ref="char:EOLhyphen"/>vere; Tribuere ſuum cuique; Neminem laedere: i. e.</hi> To live well; To pay every man his own; And to hurt no man.</p>
+            <p>For their living well, it is manifeſt unto all that know them, and have to do with them, of which I have ſpoken before: And therefore the Law is abuſed, when Liberty is given to Crows, and Doves puniſhed.</p>
+            <q>
+               <hi>Dat veniam Corvis, vexat cenſura Columbas.</hi> 
+               <bibl>Juven.</bibl>
+            </q>
+            <p>And this practice doth make Laws like Spiders webs,</p>
+            <q>
+               <l>That catch the Flyes, but let the Waſps go free;</l>
+               <l>Favours the Ill, when Just impriſon'd be.</l>
+            </q>
+            <p>For their paying to every man his own, let Landlords ſpeak for their Tenants, and Maſters and Servants each for other, with all others with whom they deal or have to do.</p>
+            <p>For their hurting no man, it is as manifeſt, in that they are hurt by all; and the more, becauſe they follow Chriſt's example, <hi>When they are reviled, not to revile again:</hi> and there<g ref="char:EOLhyphen"/>fore can they not be juſtly charged unto this day with hurting any, either in their Perſons, Eſtates, or Liberties, though many have watched for their halting.</p>
+            <p>The chief Ends of Government are theſe four:</p>
+            <p>Firſt, <hi>To prevent Oppreſſions,</hi> To limit and reſtrain the exceſ<g ref="char:EOLhyphen"/>ſive Power and Violence of Great-men, To open the paſſages of Juſtice, with indifferency towards all.</p>
+            <pb facs="tcp:42022:3"/>
+            <p n="2">2dly, <hi>To preſerve men</hi> in their Eſtates, <hi>and ſecure them</hi> in their lives and liberties: for if it were not for juſt Government, no man would have more certainly in his own, than power will al<g ref="char:EOLhyphen"/>low.</p>
+            <p n="3">3ly, <hi>That vertue ſhould be cheriſhed,</hi> and <hi>vice ſuppreſſed.</hi>
+            </p>
+            <p n="4">4thly, That <hi>all</hi> accidents and events, all counſels and de<g ref="char:EOLhyphen"/>ſigns <hi>ſhould be improved to the publick good.</hi>
+            </p>
+            <p>All theſe ends are manifeſtly anſwered by the Lives and Pra<g ref="char:EOLhyphen"/>ctiſes of the <hi>Quakers;</hi> for they do not Oppreſs, nor Defraud, nor cheriſh Vice, but do <hi>good to all,</hi> their Principle leading them to do to all as they would be done unto. And therefore they do the Magiſtrates work for them, in giving good Example, both in Life and Doctrine, unto all People with whom they converſe; whereby the Magiſtrates work is done to their hands: And therefore in Juſtice they ought to have Liberty of Conſcience, the Ends of Government being anſwered by them, both in Do<g ref="char:EOLhyphen"/>ctrine and Practice; while the generality of People are either Oppreſſors, or by their Greatneſs and Violence do ſtop the Paſ<g ref="char:EOLhyphen"/>ſages of Juſtice, or do wrongfully take away the Eſtates and Li<g ref="char:EOLhyphen"/>berties, and ſometimes the Lives of others, or that do cheriſh Vice and ſuppreſs Vertue; and it is the end and deſign of ma<g ref="char:EOLhyphen"/>ny to improve all Accidents and Events, Counſels and Contri<g ref="char:EOLhyphen"/>vances, to a ſelfiſh Intereſt, and not to the publick Good: all which encreaſe the Magiſtrate's Work that rules for God, and layes more burdens upon his back, as well as they imploy his hand to draw the Sword, if he bear it not in vain: All which is ſpared by the <hi>Quakers,</hi> and thoſe that walk by their Princi<g ref="char:EOLhyphen"/>ple and Example; but contrariwiſe, <hi>vertus</hi> (as well as <hi>veritas) odium parit;</hi> vertuous Lives often gain Priſons, when Vice hath liberty. And this is made good in our day, <hi>Probitas laudatur, et alget;</hi> Honeſty is praiſed by moſt, but practiſed by few.</p>
+            <p>By what hath been ſaid, it may be ſeen, how the <hi>Quakers</hi> anſwer the Ends of Government, and therefore may juſtly challenge the Liberty of their Conſciences, to worſhip God ac<g ref="char:EOLhyphen"/>cording to his perſwaſions in their Hearts.</p>
+            <p>Therefore all Magiſtrates and Rulers are to conſider, with whom Priſons are or have lately been filled: Is it with thoſe that live diſhoneſtly contrary to Law, or honeſt Livers that anſwer
+<pb facs="tcp:42022:4"/>the Law? Are hurters of men in Priſon, or at Liberty in Ta<g ref="char:EOLhyphen"/>verns, Ale-houſes and Play-houſes? let Equity ſpeak. Have you been as willing to turn honeſt Livers, and thoſe that Anſwer the Ends of Government, out of Priſon upon the Kings late <hi>Declaration,</hi> as you were to put them in upon his <hi>Proclamation</hi> before? Are you as indifferent in the <hi>Quakers</hi> Caſes, when they come before you, and willing to do them Juſtice, and Releaſe them, as Drunkards, Swearers and others that come before you at your Courts and Seſſions? if ſo, What means the lowing of the Oxen, and bleating of the Sheep, whom, as appointed for the ſlaughter, many of you Fine and Impriſon at pleaſure, with<g ref="char:EOLhyphen"/>out any legal Tryal by Juries of the Neighbour-hood, which by your Oaths (according to Law) you ought to do. Nay do not many Magiſtrates now, as <hi>Iſrael</hi> did in thoſe dayes, when there was no King in <hi>Iſrael, Every man what is right in his own eyes,</hi> as to this People? If he will be moderate he may, and if he will not, he may chooſe; as if the time were come, that <hi>He who is filthy may be filthy ſtill,</hi> but <hi>he who is holy muſt be holy no lon<g ref="char:EOLhyphen"/>ger.</hi> O Examine, Examine whether it be not ſo or no; if true, How will you account for theſe things? or have you a belief that God ſees not, and therefore ſay in your hearts, <hi>No evil ſhall come unto us?</hi> What, doth God take care for Oxen, and you, who ought to be his Miniſters <hi>(to encourage them that do well, and to puniſh evil Doers)</hi> take no care of his People? Is it not true in this our day, that <hi>Lazarus</hi> finds more favour from the Dogs, than from <hi>Dives</hi> that's clad with Scarlet, and clothed with Purple? What, are Men become Beaſts, and Beaſts Men? Doth the common People every where cry for Liberty, and are their bowels open<g ref="char:EOLhyphen"/>ed with Compaſſions unto the ſuffering innocent People of God; and are your bowels locked and cloſed, who ſhould be <hi>as nurſing Fathers,</hi> and <hi>nurſing Mothers</hi> to the true Children? but inſtead thereof, beat them as Vagrants, and commit them to Priſon as the chiefeſt Offenders, only for exerciſing their Con<g ref="char:EOLhyphen"/>ſciences towards their Father, who fees in ſecret, and will re<g ref="char:EOLhyphen"/>ward them openly, though others (that ſhould be as Fathers) are without natural affection unto them. Can theſe things go unpuniſhed, or paſs without controul before God's Judgement. ſeat! nay ſure: though
+<pb n="7" facs="tcp:42022:4"/>
+               <q>
+                  <l>— Crimina raris</l>
+                  <l>Librat in Antithetis, doctas poſuiſſe figuras</l>
+                  <l>Laudatur <hi>— (as</hi> Juvenal <hi>complain'd of his Day</hi>)</l>
+               </q> yet Rethorique will not cover Vice when God ſits Judge.</p>
+            <p>Therefore, O ye Rulers and Magiſtrates, take heed what ye do, for God's People are <hi>as the apple of his eye,</hi> and he that hur<g ref="char:EOLhyphen"/>teth them, God feels the ſtroak: And if he puniſhed them <hi>that wag'd the head, and cry'd Aha</hi> in the dayes paſt; how ſhall you eſcape, that give them up <hi>to be killed all the day long,</hi> and make them as the Butts for the Arrows of your diſpleaſure to be ſhot againſt, although they are ſuch as both anſwer the Principles of the Law, and ends of juſt Government, as before is ſhewed? O let them have Liberty therefore, and lay the Sword upon the Evil-doers, <hi>that Juſtice may flouriſh, and the King's Throne be eſtabliſhed in Righteouſneſs,</hi> before he comes, that <hi>ſhall come and will not tarry,</hi> from whoſe Preſence no Rock nor Mountain, Cave nor Den ſhall be able to hide you; but then they, whom you now Oppreſs and Perſecute, ſhall have their Cauſe pleaded by him, and receive Juſtice from him, and they ſhall aſcend in Triumph, Power and great Glory, in the fight and veiw of their Enemies; Even ſo come Lord Jeſus, come quickly, Amen.</p>
+            <div type="part">
+               <head>Four Queries concerning Government.</head>
+               <p>FIrſt, <hi>Whether the Magiſtrates in all Nations, do not hold their Authority and Power over their Subjects, under God, the Su<g ref="char:EOLhyphen"/>pream Lord of all?</hi>
+               </p>
+               <p n="2">2dly, <hi>Whether God hath not Authority over every man; and whether his Authority and Power be not greater, than the Power and Authority of men one over another?</hi>
+               </p>
+               <p n="3">3ly, <hi>Whether the Magiſtrates, commanding any thing contra<g ref="char:EOLhyphen"/>ry to what God commands in the Heart, keep the true bounds of Go<g ref="char:EOLhyphen"/>vernment, and Exerciſe their Authority in true Underſtanding and Righteouſneſs; or whether in ſo doing they do not erre in Judgement, and miſguide the reigns of Government?</hi>
+               </p>
+               <p n="4">4thly, <hi>Whether the Governments of this preſent world, are ſo ma<g ref="char:EOLhyphen"/>naged,
+<pb n="8" facs="tcp:42022:5"/>as that God may alſo govern the Hearts of men according to his Will and Pleaſure; or whether they are ſo managed, as to inter<g ref="char:EOLhyphen"/>rupt the Lawes and Power of God's Spirit in the Conſcience?</hi>
+               </p>
+               <p>Surely man was made by God, and the Place of the Higheſt is under God, and their Government ſhould be in his Wiſdom and Righteouſneſs, that God might have reſpect and authority in the Hearts of Men, and exerciſe the Government of his Spirit therein, with the encouragement, and not with the con<g ref="char:EOLhyphen"/>tradiction of the outward Authority; which might eaſily be in all Governments, were the Principle of Reaſon ſubordinate and ſubjected to the Principle of Life, and did not take upon it to govern without or againſt it. This would ſet all ſtreight, both in the Governours and in the Governed. And this is my Pray<g ref="char:EOLhyphen"/>er to God, that God would ſpare men, but ſtrike through Prin<g ref="char:EOLhyphen"/>ciples and Spirits; that Righteouſneſs might be brought forth, and the Image of God exalted in man, and Unrighteouſneſs ſub<g ref="char:EOLhyphen"/>dued and ſubjected: for alas, Unrighteouſneſs and Cruelty is uncomely in man, and makes even thoſe miſerable, who ſeem moſt to thrive and proſper by it. O that theſe things might be conſidered and weighed in an equal Ballance: For why ſhould man ſtrive againſt the Will of his Maker, who is too ſtrong for him, as all that have contended with him, have afterwards been forced to acknowledge.</p>
+            </div>
+            <trailer>THE END,</trailer>
+            <pb facs="tcp:42022:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
